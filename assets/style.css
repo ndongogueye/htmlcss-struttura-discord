@@ -1,0 +1,119 @@
+.contenitore1  {
+    background-color: blue;
+    height: 400px;
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.colore1 {
+
+    background-color: rosybrown;
+    height: 200px;
+    width: 300px; 
+}
+
+.contenitore2{
+background-color: rgb(64, 230, 14);
+height: 400px;
+display: flex;
+align-items: center;
+justify-content: center;
+flex-grow: 1;
+}
+
+.colore2 {
+    background-color: brown;
+    height: 200px;
+    width: 30%;
+}
+
+.colore3 {
+    background-color: rgb(170, 146, 7);
+    height: 200px;
+    width: 20%;
+}
+
+.contenitore3{
+    background-color: rgb(212, 30, 158);
+    height: 400px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-grow: 1;
+    }
+
+.colore4 {
+    background-color: rgb(170, 146, 7);
+    height: 200px;
+    width: 30%;
+}
+
+.colore5 {
+    background-color:  brown;;
+    height: 200px;
+    width: 20%;
+}
+
+.contenitore4{
+    background-color: rgb(206, 6, 6);
+    height: 400px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-grow: 1;
+    }
+
+    .colore6 {
+        background-color:  brown;;
+        height: 350px;
+        width: 20%;
+    }
+
+    .contenitore5 {
+        background-color: gold;
+        height: 400px;
+        width: 100%;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+    }
+
+    .colore7 {
+        background-color: black;
+        width: 200px;
+        height: 350px;
+    }
+
+    .colore8 {
+        background-color: rgb(13, 190, 167);
+        width: 100px;
+        height: 350px;
+        border-right: solid 1px white;
+        
+    }
+
+    .contenitore6 {
+        background-color: gold;
+        height: 400px;
+        width: 100%;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        border-top: 1px solid black; 
+    }
+
+    .colore9 {
+        background-color: rgb(113, 233, 217);
+        width: 95%;
+        height: 100px;
+        display: flex;  
+        justify-content: space-between;  
+        align-items: center;    
+    }
+
+    .colore9 div {
+        background-color: orange;
+        height: 20px;
+    }
